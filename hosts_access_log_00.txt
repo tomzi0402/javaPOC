@@ -1,0 +1,5 @@
+google.com - - [01/Jul/1995] "GET /images/count.gif HTTP/1.0" 200 378
+yahoo.com - - [01/Jul/1995:00:00:00 -0400] "GET /images/count.GIF HTTP/1.0" 200 378
+yahoo.com - - [01/Jul/1995:00:00:00 -0400] "GET /images/other.GIF HTTP/1.0" 200 378
+yahoo.com - - [01/Jul/1995:00:00:00 -0400] "GET /images/abc-nasa.jpg HTTP/1.0" 200 378
+yahoo.com - - [01/Jul/1995:00:00:00 -0400] "GET /images/ka-sa.GIF HTTP/1.0" 200 378
